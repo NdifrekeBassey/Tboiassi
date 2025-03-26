@@ -34,4 +34,4 @@
 
 ---
 
-### 🔥 **Coming Up Tomorrow**: First interactive project setup & repo structure!
+### 🔥 **Coming Up Tomorrow**: First interactive project setup & repo structure
