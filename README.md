@@ -1,23 +1,37 @@
-## Hi there 👋
+# 🌟 **Treasure Assi's Front-End Mobile Dev Journey** 🚀  
 
-<!--
-**Tboiassi/Tboiassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
+  <h3>👋 Welcome to My Dev Space!</h3>  
+  <p>Join me as I explore the world of <b>Front-End Mobile Development</b> 🌍📱</p>  
+</div>  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎯 **Goals & Roadmap**  
 
-## skills
--- programming language --
--- Framework --
-- tools:-
+📌 **Phase 1:** Learn **HTML, CSS, JavaScript** (with a focus on mobile-friendly design)  
+📌 **Phase 2:** Dive into **React Native / Flutter** for cross-platform development  
+📌 **Phase 3:** Build **real-world, interactive mobile projects**  
+📌 **Phase 4:** Master **UI/UX design principles** 🎨  
+📌 **Phase 5:** Collaborate & share insights with the dev community  
 
-## Projects
--->
+---
+
+## 🎨 **What to Expect?**  
+
+✨ **🚀 Animated & Responsive UI projects**  
+✨ **📌 Code snippets & fun experiments**  
+✨ **💡 UI/UX challenges & creative solutions**  
+✨ **📢 Insights, struggles, and developer tips**  
+
+---
+
+🎭 **Join me on this exciting journey!**  
+📌 *Stay tuned for my first animated project update!*  
+
+🚀 *Let’s build something awesome together!*  
+
+---
+
+### 🔥 **Coming Up Tomorrow**: First interactive project setup & repo structure!
